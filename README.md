@@ -1,3 +1,3 @@
-## magang-project
+# magang-project
 
-# Tes
+## Tes
