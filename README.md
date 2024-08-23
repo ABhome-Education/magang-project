@@ -1,3 +1,1 @@
-# magang-project
-
-## Tes
+# Membuat project laravel sederhana
